@@ -3,7 +3,11 @@
 ![app screenshot dashboard](./.preview-static-images/dashboard.png)
 ![app screenshot tasklist](./.preview-static-images/tasklist.png)
 ![app screenshot taskdetail](./.preview-static-images/taskdetail.png)
+![app screenshot tests](./.preview-static-images/tests.png)
 
+## Test
+- Tested with Jest
+- Coverage 100%
 ## Built using:
 ### Backend
 - Node.js
