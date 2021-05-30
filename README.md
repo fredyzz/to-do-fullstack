@@ -4,8 +4,6 @@
 ![app screenshot tasklist](./.preview-static-images/tasklist.png)
 ![app screenshot taskdetail](./.preview-static-images/taskdetail.png)
 
-[live demo](https://fredyzz.github.io/newsfeed-react-redux/)
-
 ## Built using:
 ### Backend
 - Node.js
